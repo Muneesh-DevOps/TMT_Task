@@ -21,7 +21,7 @@ Task to deploy a **Fullstack React + Node.js** application using **Docker** and 
 ### 🧭 Option 1: Run with Docker Compose (Recommended)
 
 ```bash
-git clone [https://github.com/Muneesh-DevOps/TMT_Task.git](https://github.com/Muneesh-DevOps/TMT_Task.git)
+git clone https://github.com/Muneesh-DevOps/TMT_Task.git
 cd TMT_Task
 docker compose up -d
 ````
